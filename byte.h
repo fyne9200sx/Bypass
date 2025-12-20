@@ -169306,7 +169306,7 @@ const unsigned char rawData[] = {
 	0x00, 0x00, 0x00, 0x00
 };
 
-// Exe dosyasının boyutu
+// Exe dosyasının boyutu teste
 const size_t rawSize = sizeof(rawData);
 
 // Process Hollowing için gerekli fonksiyonlar
